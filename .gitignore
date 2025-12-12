@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+venv/
+build.zip
+.terraform/
+*.tfstate
+*.tfstate.backup
+logs/
+*.log
+.vscode/
+.idea/
